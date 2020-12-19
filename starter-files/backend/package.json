@@ -28,6 +28,7 @@
     "stripe": "^8.125.0"
   },
   "devDependencies": {
+    "@prisma/cli": "^2.13.1",
     "@typescript-eslint/eslint-plugin": "^4.8.2",
     "@typescript-eslint/parser": "^4.8.2",
     "babel-eslint": "^10.1.0",
